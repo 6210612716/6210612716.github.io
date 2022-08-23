@@ -8,8 +8,7 @@
 }
 
 body {
-    background-image: url("https://images.unsplash.com/photo-1595113316349-9fa4eb24f884?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80");
-    background-size: cover;
+    background: #ddc9ab;
 }
 
 .content {
@@ -19,11 +18,11 @@ body {
     height: 530px;
     top: 50%;
     left: 50%;
-    transform: translate(-517px, -45%);
+    transform: translate(-50%, -50%);
     justify-content: space-between;
     background-color: #fff;
     border-radius: 2px;
-    box-shadow: -8px 8px 6px #dadada;
+    box-shadow: -5px 5px 6px #757575;
 }
 
 .profile .image {
@@ -31,7 +30,7 @@ body {
     position: relative;
     margin: -25px auto auto 50px;
     border-radius: 10px;
-    box-shadow: -5px 5px 10px #bebebe;
+    box-shadow: -4px 4px 6px #bebebe;
     transform: rotate(-1deg);
     z-index: 1;
     transition: .3s;
@@ -45,7 +44,7 @@ body {
     position: absolute;
     margin: 1px 320px;
     font-size: 15px;
-    color: #4682B4;
+    color: #bba37e;
     opacity: 60%;
     transform: rotate(-1deg);
 }
@@ -96,8 +95,7 @@ body {
     background-color: #f5f5f5;
     margin: 45px 40px auto auto;
     border-radius: 2px;
-    box-shadow: -5px 5px 10px #bebebe;
-    transform: rotate(1deg);
+    box-shadow: -4px 4px 6px #757575;
 }
 
 .info ul {
