@@ -7,9 +7,7 @@
     font-family: arial;
 }
 
-.container {
-    position: relative;
-    min-height: 100vh;
+body {
     background-image: url("https://images.unsplash.com/photo-1595113316349-9fa4eb24f884?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80");
     background-size: cover;
 }
@@ -21,7 +19,7 @@
     height: 530px;
     top: 50%;
     left: 50%;
-    transform: translate(-517px, -50%);
+    transform: translate(-517px, -45%);
     justify-content: space-between;
     background-color: #fff;
     border-radius: 2px;
