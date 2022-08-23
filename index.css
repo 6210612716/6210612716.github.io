@@ -16,9 +16,9 @@
 
 .content {
     display: flex;
-    width: 54%;
-    height: 55%;
     position: absolute;
+    width: 1035px;
+    height: 530px;
     top: 50%;
     left: 50%;
     transform: translate(-517px, -35%);
